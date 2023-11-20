@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
 	"author": "Joshua Adenusi",
 	"description": "A work on the fCC backend boilerplate",
 	"keywords": ["boilerplate", "freecodecamp", "backend"],
