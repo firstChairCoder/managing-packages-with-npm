@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Joshua Adenusi",
+	"description": "A work on the fCC backend boilerplate",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
